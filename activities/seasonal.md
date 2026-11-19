@@ -40,7 +40,7 @@ Budget: Admission is free, but it is a market. I'd recommend $20 in spending cas
 
 ### Ice Skating at the Ribbon
 
-Maggie Daley Park is a public park in the city. Durring winter, they open the Ribbon portion as an outdoor ice skating path.&#x20;
+Maggie Daley Park is a public park in the city. During winter, they open the Ribbon portion as an outdoor ice skating path.&#x20;
 
 Timeframe: November - March
 

@@ -28,9 +28,9 @@ This is the premier shopping district of Chicago.&#x20;
 * Wrigley Building: Iconic building housing a beautiful walkway, a Ghirardelli store, and a Lou Malnati's.&#x20;
 * Water Tower Place: Large mall with several iconic stores, such as the American Girl store.
 * The Chicago Water Tower: One of the few remaining buildings that survived the Great Chicago Fire in the 1800s.&#x20;
-* Luxury flagship stores: Saks Fifth Avenue, Tiffany's and Co., Cartier
-* Luxury co-signment stores: The RealReal
-* Traditional flagship stores: Apple, Under Armor, Nike, Sephora, etc.&#x20;
+* Luxury flagship stores: Saks Fifth Avenue, Tiffany & Co., Cartier
+* Luxury consignment stores: The RealReal
+* Traditional flagship stores: Apple, Under Armour, Nike, Sephora, etc.&#x20;
 
 ## State Street
 
@@ -44,7 +44,7 @@ If Mag Mile is so good, why isn't there a Mag Mile 2? Well that's what State Str
 
 If Mag Mile 2 is so good, then why isn't there a Mag Mile 3? Well, there is at the north end of Mag Mile and it is the most expensive part of Chicago. Also known as Viagra Triangle, it's not all eye watering prices, but there are more boutiques, jewelers, and luxury stores than anywhere else. The namesake comes from the prevalence of old men with remarkably expensive sports cars.&#x20;
 
-* Luxury stores: Hermés, Prada, Chanel, Arc'teryx
+* Luxury stores: Hermès, Prada, Chanel, Arc'teryx
 * The Original Playboy Mansion
 * Upscale restaurants: Carmine's, Le Colonial
 * Newberry Library

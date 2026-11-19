@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f3e9d2" />
+  <title>The Chicago Guide — A Cozy Field Map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="#" aria-label="The Chicago Guide home">
+      <span class="brand-kicker">Stephanie &amp; Edwin</span>
+      <span class="brand-title">The Chicago Guide</span>
+    </a>
+  </header>
+
+  <div class="strapline">
+    <span class="strap-edition">Est. 2022 <span class="sep">·</span> <span id="editionName">Today’s Edition</span> <span class="sep">·</span> <span id="editionNumber"></span> <span class="sep">·</span> <time id="dateline"></time></span>
+    <span class="strap-weather" aria-live="polite"><span id="weatherNow">—°</span> <span id="weatherDetail">Fetching the forecast…</span></span>
+  </div>
+
+  <nav class="sections" aria-label="Sections">
+    <div class="section-tabs">
+      <button class="section-tab" data-category="All" aria-pressed="true">All Places <span class="count"></span></button>
+      <button class="section-tab" data-category="Food" aria-pressed="false">Food <span class="count"></span></button>
+      <button class="section-tab" data-category="Bars" aria-pressed="false">Bars <span class="count"></span></button>
+      <button class="section-tab" data-category="Activities" aria-pressed="false">Activities <span class="count"></span></button>
+      <button class="section-tab" data-category="Seasonal" aria-pressed="false">Seasonal <span class="count"></span></button>
+      <button class="section-tab" id="classifiedsBtn" type="button" aria-haspopup="dialog">Classifieds</button>
+    </div>
+    <div class="nav-actions">
+      <button class="filters-toggle" id="filtersToggle" type="button" aria-expanded="true" aria-controls="filtersPanel">
+        Filters <span class="filters-badge" id="filtersBadge" hidden></span> <span class="chev" aria-hidden="true">▾</span>
+      </button>
+    </div>
+  </nav>
+
+  <section class="filters" id="filtersPanel" aria-label="Filter the guide">
+    <div class="field field-search">
+      <label for="placeSearch">Search the guide</label>
+      <input id="placeSearch" type="search" placeholder="Sticky buns, speakeasy, skulls…" autocomplete="off" />
+    </div>
+
+    <fieldset class="field field-picks">
+      <legend>Whose pick? <span class="legend-hint">choose both for where we agree</span></legend>
+      <div class="pick-options">
+        <label class="pick-chip steph"><input type="checkbox" name="pick" value="stephanie"><span><i class="icon-star" aria-hidden="true"></i>Stephanie <span class="count" data-pick-count="stephanie"></span></span></label>
+        <label class="pick-chip edwin"><input type="checkbox" name="pick" value="edwin"><span><i class="icon-flame" aria-hidden="true"></i>Edwin <span class="count" data-pick-count="edwin"></span></span></label>
+      </div>
+    </fieldset>
+
+    <fieldset class="field field-budget">
+      <legend>Budget <span class="legend-hint">per person</span></legend>
+      <div class="budget-options">
+        <label class="pick-chip budget-chip"><input type="checkbox" name="budget" value="0"><span>Free <span class="count"></span></span></label>
+        <label class="pick-chip budget-chip"><input type="checkbox" name="budget" value="1"><span>$ <span class="count"></span></span></label>
+        <label class="pick-chip budget-chip"><input type="checkbox" name="budget" value="2"><span>$$ <span class="count"></span></span></label>
+        <label class="pick-chip budget-chip"><input type="checkbox" name="budget" value="3"><span>$$$ <span class="count"></span></span></label>
+        <label class="pick-chip budget-chip"><input type="checkbox" name="budget" value="4"><span>$$$$ <span class="count"></span></span></label>
+      </div>
+    </fieldset>
+
+    <div class="field field-meal">
+      <span class="field-label" id="mealLabel">Meal</span>
+      <details class="multi" id="mealMulti">
+        <summary aria-describedby="mealLabel"><span class="multi-value">Any occasion</span></summary>
+        <div class="multi-panel" role="group" aria-labelledby="mealLabel">
+          <div class="multi-options"></div>
+          <button class="multi-clear" type="button">Clear</button>
+        </div>
+      </details>
+    </div>
+
+    <div class="field field-hood">
+      <span class="field-label" id="neighborhoodLabel">Neighborhood</span>
+      <details class="multi" id="neighborhoodMulti">
+        <summary aria-describedby="neighborhoodLabel"><span class="multi-value">Anywhere</span></summary>
+        <div class="multi-panel" role="group" aria-labelledby="neighborhoodLabel">
+          <div class="multi-options"></div>
+          <button class="multi-clear" type="button">Clear</button>
+        </div>
+      </details>
+    </div>
+    <div class="field field-cuisine">
+      <span class="field-label" id="cuisineLabel">Cuisine &amp; drinks</span>
+      <details class="multi" id="cuisineMulti">
+        <summary aria-describedby="cuisineLabel"><span class="multi-value">Any cuisine</span></summary>
+        <div class="multi-panel" role="group" aria-labelledby="cuisineLabel">
+          <div class="multi-options"></div>
+          <button class="multi-clear" type="button">Clear</button>
+        </div>
+      </details>
+    </div>
+  </section>
+
+  <main class="spread">
+    <figure class="map-figure">
+      <div class="map-wrap">
+        <div id="map" aria-label="Map of Chicago recommendations"></div>
+        <div class="map-vignette" aria-hidden="true"></div>
+        <div class="map-frame" aria-hidden="true"></div>
+        <div class="compass" aria-hidden="true"><span>N</span><i></i></div>
+        <button class="locate-button" id="locateButton" type="button" title="Show where I am" aria-label="Show where I am">⌖</button>
+
+        <div class="map-key" aria-label="Map key">
+          <span class="key-title">Key</span>
+          <span><i class="dot food"></i>Food</span>
+          <span><i class="dot bar"></i>Bars</span>
+          <span><i class="dot activity"></i>Activities</span>
+          <span><i class="dot seasonal"></i>Seasonal</span>
+          <span><i class="dot closed"></i>Closed</span>
+        </div>
+
+        <article class="clipping" id="placeCard" tabindex="-1" hidden>
+          <button class="clip-close" id="closeCard" type="button" aria-label="Close place details">×</button>
+          <div class="clip-body" id="placeCardBody"></div>
+        </article>
+      </div>
+      <figcaption><span>Fig. 1. The city, as we see it.</span><span>Tap a pin to read the story.</span></figcaption>
+    </figure>
+
+    <section class="index-col" aria-label="Listings">
+      <p class="editors-note">Everything here is a place we’ve been and loved. Look for our stamps on the ones we’d send you to first, and please drop by Wicker Park to say hi. :) <span class="signoff">— Stephanie &amp; Edwin</span></p>
+      <div class="results-head">
+        <span id="resultCount" aria-live="polite">— listings</span>
+        <button id="clearFilters" type="button" disabled>Clear filters</button>
+      </div>
+      <div id="resultList"></div>
+    </section>
+  </main>
+
+  <dialog class="classifieds" id="classifieds" aria-labelledby="classifiedsTitle">
+    <div class="classifieds-body">
+      <button class="clip-close" id="closeClassifieds" type="button" aria-label="Close classifieds">×</button>
+      <header class="classifieds-head">
+        <p class="brand-kicker">Rewards &amp; referral programs</p>
+        <h2 id="classifiedsTitle">Classifieds</h2>
+        <p class="classifieds-deck">Lots of our favorite spots have rewards programs. These are our personal referral links: you get the sign-up perk, and we get a little thank-you too.</p>
+      </header>
+      <div class="classified-ads" id="classifiedAds"></div>
+      <p class="classifieds-fine">Fine print: perks are set by each program and can change, so check their terms when you sign up.</p>
+    </div>
+  </dialog>
+
+  <section class="dispatch" aria-label="Today’s dispatch">
+    <div class="dispatch-label" id="dispatchLabel">Today’s Dispatch</div>
+    <button class="dispatch-story" id="dispatchText" type="button">&nbsp;</button>
+    <button class="dispatch-surprise" id="randomPlace" type="button">Surprise me <span aria-hidden="true">→</span></button>
+  </section>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js" type="module"></script>
+</body>
+</html>

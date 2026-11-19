@@ -22,7 +22,7 @@ Location: Roscoe Village
 
 ## AIR Aerial Fitness
 
-If you'd like to workout during your stay, I recommend trying out aerial gyms. AIR is a great gym that specializes in aerial hammocks. The classes range from traditional conditioning in their "foundations" courses to yoga using the fabrics in their "flow" courses.
+If you'd like to work out during your stay, I recommend trying out aerial gyms. AIR is a great gym that specializes in aerial hammocks. The classes range from traditional conditioning in their "foundations" courses to yoga using the fabrics in their "flow" courses.
 
 Budget: $25 for unlimited one week pass
 

@@ -21,7 +21,7 @@ Budget: $14 per person.
 
 ## Adler Planetarium
 
-The Adler Planetarium is the premiere planetarium in the heart of Chicago's museum campus.&#x20;
+The Adler Planetarium is the premier planetarium in the heart of Chicago's museum campus.&#x20;
 
 Location: South Loop
 
@@ -41,7 +41,7 @@ Budget: $22 per person.
 
 ## Art Institute of Chicago
 
-The Art Institute of Chicago is one of the finest art museums in the country. The Art Institute is home to pieces by Van Gogh, Monet, Chagall, and more. Additionally, there is a beautiful Midieval arms exhibit showcasing the armor and swords of the dark ages. :star:
+The Art Institute of Chicago is one of the finest art museums in the country. The Art Institute is home to pieces by Van Gogh, Monet, Chagall, and more. Additionally, there is a beautiful Medieval arms exhibit showcasing the armor and swords of the dark ages. :star:
 
 Location: Loop
 
@@ -61,7 +61,7 @@ Budget: $29 per person.
 
 ## Shedd Aquarium
 
-The Shedd Aquarium is one of the best aquariums in the US. There are sharks, dolphins, sea turtles, penquins, and reptiles.&#x20;
+The Shedd Aquarium is one of the best aquariums in the US. There are sharks, dolphins, sea turtles, penguins, and reptiles.&#x20;
 
 Location: South Loop
 

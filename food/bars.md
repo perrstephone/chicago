@@ -24,7 +24,7 @@ Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkin
 
 ## The Drifter
 
-The Drifter is a classic speakeasy hidden in the basement of the Green Door Tavern. This speakeasy uses a tarot card based cocktail menu in which the cocktail menu is determined by which tarot cards are drawn from the deck for that day. In addition to the tarot card menu, The Drift also charges a $6 pp cover after 6:30 for the shows, which can range from piano to burlesque.&#x20;
+The Drifter is a classic speakeasy hidden in the basement of the Green Door Tavern. This speakeasy uses a tarot card based cocktail menu in which the cocktail menu is determined by which tarot cards are drawn from the deck for that day. In addition to the tarot card menu, The Drifter also charges a $6 pp cover after 6:30 for the shows, which can range from piano to burlesque.&#x20;
 
 Food: Bar Bites
 
@@ -88,7 +88,7 @@ Budget: \$$
 
 ## Dorian's&#x20;
 
-Dorian's is a speakeasy that lives behind a small recordshop storefront on North Ave. The bar hosts live music nearly every night at 8pm. Prior to 8pm, the bar hosts a great happy hour so you can indulge while you wait.
+Dorian's is a speakeasy that lives behind a small record shop storefront on North Ave. The bar hosts live music nearly every night at 8pm. Prior to 8pm, the bar hosts a great happy hour so you can indulge while you wait.
 
 Food: Bar Snacks
 
@@ -150,7 +150,7 @@ Budget: \$$
 
 ## Luxbar
 
-Luxbar is an upscale tavern serving premium drinks and American food. In the heart of Gold Coast, a plate of fries and a cocktail can be a perfect snack when you want a break for shopping on Michigan Ave. Luxbar holds a special place in our hearts' as it's where we went right after we got engaged. :heart::star::fire:
+Luxbar is an upscale tavern serving premium drinks and American food. In the heart of Gold Coast, a plate of fries and a cocktail can be a perfect snack when you want a break for shopping on Michigan Ave. Luxbar holds a special place in our hearts as it's where we went right after we got engaged. :heart::star::fire:
 
 Food: American
 
@@ -202,7 +202,7 @@ Budget: \$$$
 
 ## The Office
 
-The Office is a tiny speakeasy within the Aviary, and both are Alinea group restaurants. The restaurants capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic cocktails and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased a la carte or as a part of a dinner/drinks package. Reservations recommended. :star:
+The Office is a tiny speakeasy within the Aviary, and both are Alinea group restaurants. The restaurant's capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic cocktails and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased a la carte or as a part of a dinner/drinks package. Reservations recommended. :star:
 
 Location: West Loop
 
@@ -212,7 +212,7 @@ Budget: \$$$
 
 ## The Aviary
 
-The Aviary is arguably the most prestiege bar in Chicago. Yet another creation from the Alinea group, The Aviary specialized in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea treats all food in their ecosystem. :star::fire:
+The Aviary is arguably the most prestigious bar in Chicago. Yet another creation from the Alinea group, The Aviary specializes in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea treats all food in their ecosystem. :star::fire:
 
 Location: West Loop
 

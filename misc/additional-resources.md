@@ -12,7 +12,7 @@ Opulist cultivates a list of "vibe"-y places for a variety of purposes (coffee, 
 
 ## Fever
 
-Fever is like a local TicketMaster. They organize local events and sell tickets to these things. This can be anything from self-guided tours to booze cruises to burlesque shows.
+Fever is like a local Ticketmaster. They organize local events and sell tickets to these things. This can be anything from self-guided tours to booze cruises to burlesque shows.
 
 {% embed url="https://feverup.com/chicago" %}
 

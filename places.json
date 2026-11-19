@@ -1,0 +1,1578 @@
+[
+  {
+    "name": "Move Along Coffee",
+    "category": "Food",
+    "type": "Coffee",
+    "neighborhood": "West Town",
+    "budget": "$",
+    "cuisine": [
+      "Coffee",
+      "Bakery & Pastries"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "picks": [],
+    "lat": 41.8957,
+    "lng": -87.683,
+    "url": "https://www.movealongcoffee.com/",
+    "summary": "a walk-up coffee window with tea, pastries, and a striking skeleton mural.",
+    "description": "Move Along is a walk-up, take-away cafe in the West Town area. This cafe serves coffee and teas in addition to select baked goods. The building is decorated with a stunning skeleton mural. This is a great place for getting a coffee while walking a dog."
+  },
+  {
+    "name": "Do-Rite Donuts",
+    "category": "Food",
+    "type": "Donuts",
+    "neighborhood": "The Loop",
+    "alsoIn": [
+      "Streeterville",
+      "West Loop",
+      "Wrigleyville"
+    ],
+    "budget": "$",
+    "cuisine": [
+      "Donuts",
+      "Coffee",
+      "Fried Chicken"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.884,
+    "lng": -87.6245,
+    "url": "https://www.doritedonuts.com/",
+    "summary": "excellent local donuts and breakfast sandwiches, plus Dark Matter coffee.",
+    "description": "Do-Rite is a local Chicago donut chain. They serve excellent donuts and breakfast sandwiches as well as local coffee from Dark Matter Coffee. Excellent for on-the-go breakfast. I recommend ordering online to save time. It can have a bit of a line at peak times."
+  },
+  {
+    "name": "Kasama",
+    "category": "Food",
+    "type": "Filipino bakery",
+    "neighborhood": "West Town",
+    "budget": "$$",
+    "cuisine": [
+      "Filipino",
+      "Breakfast & Brunch"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8997,
+    "lng": -87.6779,
+    "url": "https://www.kasamachicago.com/",
+    "summary": "order at 9am sharp for pickup, and get the cardamom sticky bun.",
+    "description": "Kasama is a Filipino bakery and breakfast spot. Our favorite way to get Kasama is to order at 9am sharp for pickup, and we recommend the cardamom sticky bun."
+  },
+  {
+    "name": "Publican Quality Bread",
+    "category": "Food",
+    "type": "Bakery",
+    "neighborhood": "West Town",
+    "budget": "$$",
+    "cuisine": [
+      "Bakery & Pastries",
+      "Coffee"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "rewards": "One Off Hospitality",
+    "lat": 41.8942,
+    "lng": -87.6726,
+    "url": "https://www.publicanqualitybread.com/",
+    "summary": "some of the most delicious bread in Chicago. Get the sourdough.",
+    "description": "Publican Quality Bread is a local bakery with some of the most delicious breads in Chicago. Their sourdough is one of our absolute favorites."
+  },
+  {
+    "name": "Billy Goat Tavern",
+    "category": "Food",
+    "type": "Burgers",
+    "neighborhood": "Streeterville",
+    "alsoIn": [
+      "The Loop",
+      "Wrigleyville",
+      "Navy Pier"
+    ],
+    "budget": "$",
+    "cuisine": [
+      "American",
+      "Burgers"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "picks": [],
+    "lat": 41.8886,
+    "lng": -87.6218,
+    "url": "https://www.billygoattavern.com/",
+    "summary": "the legendary underground “Cheezborger” tavern beneath Michigan Ave.",
+    "description": "Billy Goat Tavern is the tavern famous for the “CHEEZBORGER” SNL skit and the Curse of the Billy Goat on the Cubs. This iconic Chicago location literally is underground, as it lives under Michigan Ave. There are multiple locations, but I recommend the original. It’s a great place if you want to enjoy a cheeseburger in a historic restaurant."
+  },
+  {
+    "name": "French Market",
+    "category": "Food",
+    "type": "Food hall",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "Food Hall"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "picks": [
+      "edwin"
+    ],
+    "lat": 41.8819,
+    "lng": -87.6418,
+    "url": "https://frenchmarketchicago.com/",
+    "summary": "a year-round indoor market for an indecisive crowd with diverse tastes.",
+    "description": "The French Market is a year-round market with several vendors that sell various cuisines. They have Cuban food, boba tea, a bakery, and more. This location is especially good for getting lunch for an indecisive crowd with diverse tastes. It also provides quick access to a few transit hubs (Ogilvie train station, for example). Note that the French Market is typically only open for lunch."
+  },
+  {
+    "name": "Pequod’s Pizza",
+    "category": "Food",
+    "type": "Deep dish",
+    "neighborhood": "Lincoln Park",
+    "budget": "$$",
+    "cuisine": [
+      "Deep Dish Pizza"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.9213,
+    "lng": -87.6642,
+    "url": "https://pequodspizza.com/",
+    "summary": "the local deep dish, with a famously caramelized crust.",
+    "description": "Pequod’s is the local Chicago spot to get deep dish pizza. They have a caramelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at AIR next door while you wait."
+  },
+  {
+    "name": "Green Street Smoked Meats",
+    "category": "Food",
+    "type": "Barbecue",
+    "neighborhood": "West Loop",
+    "budget": "$$$",
+    "cuisine": [
+      "BBQ"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8859,
+    "lng": -87.6487,
+    "url": "https://www.greenstreetmeats.com/",
+    "summary": "THE place to get BBQ in Chicago, tucked down an alleyway.",
+    "description": "Green Street Smoked Meats serves Texan-inspired BBQ in a warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company."
+  },
+  {
+    "name": "Avec",
+    "category": "Food",
+    "type": "Mediterranean",
+    "neighborhood": "West Loop",
+    "alsoIn": [
+      "River North"
+    ],
+    "budget": "$$$",
+    "cuisine": [
+      "Mediterranean",
+      "Breakfast & Brunch"
+    ],
+    "meal": [
+      "Brunch"
+    ],
+    "picks": [
+      "edwin"
+    ],
+    "rewards": "One Off Hospitality",
+    "lat": 41.8845,
+    "lng": -87.6418,
+    "url": "https://www.avecrestaurant.com/",
+    "summary": "savory, refined Mediterranean, and an excellent upscale brunch.",
+    "description": "Avec is a pair of Mediterranean restaurants in the downtown area of Chicago. The food is delicious, savory, and refined, making for an excellent upscale brunch spot."
+  },
+  {
+    "name": "The Loyalist",
+    "category": "Food",
+    "type": "French tavern",
+    "neighborhood": "West Loop",
+    "budget": "$$$",
+    "cuisine": [
+      "French",
+      "Burgers"
+    ],
+    "meal": [
+      "Dressy casual"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8815,
+    "lng": -87.6474,
+    "url": "https://www.smythandtheloyalist.com/the-loyalist/",
+    "summary": "a small underground French spot famous for its burger.",
+    "description": "The Loyalist is a small, underground French restaurant in West Loop. Their burger is what they’re known for, but everything on the menu is fantastic."
+  },
+  {
+    "name": "Au Cheval",
+    "category": "Food",
+    "type": "Burgers",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "American",
+      "Burgers"
+    ],
+    "meal": [
+      "Dressy casual"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8848,
+    "lng": -87.6478,
+    "url": "https://auchevalchicago.com/",
+    "summary": "one of the best burgers in the US. Arrive by 5pm to beat the wait.",
+    "description": "Au Cheval is an iconic burger restaurant and is commonly considered one of the best burgers in the US. This restaurant is walk-in ONLY and can have a wait of 2+ hours. I find that if you go early enough (5pm), you can have a much smaller (30-minute) wait. Au Cheval is in the middle of a food and bar district, so you can grab cocktails at the bars next door while you wait."
+  },
+  {
+    "name": "Gilt Bar",
+    "category": "Food",
+    "type": "Speakeasy dining",
+    "neighborhood": "River North",
+    "budget": "$$$",
+    "cuisine": [
+      "American"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "edwin"
+    ],
+    "lat": 41.8895,
+    "lng": -87.6331,
+    "url": "https://www.giltbarchicago.com/",
+    "summary": "candlelit cocktails, with a $5 happy hour from 4:00 to 5:30pm.",
+    "description": "Gilt is an upscale speakeasy-style bar that serves high-end cocktails and food. Gilt is generally only open for dinner. A highlight about Gilt is their happy hour: from 4:00pm to 5:30pm, Gilt serves $5 highballs, old-fashioneds, mussels, and more. Additionally, there is a second true speakeasy in the basement called The Library. I would recommend business casual/cocktail attire for both. Go during happy hour for the best deal! If you go after happy hour, entrees run $30 each and cocktails are $15 each."
+  },
+  {
+    "name": "Boeufhaus",
+    "category": "Food",
+    "type": "Steakhouse",
+    "neighborhood": "Wicker Park",
+    "budget": "$$$$",
+    "cuisine": [
+      "Steakhouse"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.9023,
+    "lng": -87.6796,
+    "url": "https://www.boeufhaus.com/",
+    "summary": "a butcher and steakhouse on Western with divine cocktails.",
+    "description": "Boeufhaus is a beautiful butcher and steakhouse on Western. Their steak is one of the best we have ever had in a restaurant. Their cocktails are also divine."
+  },
+  {
+    "name": "Untitled Supper Club",
+    "category": "Food",
+    "type": "Supper club",
+    "neighborhood": "River North",
+    "budget": "$$$",
+    "cuisine": [
+      "American"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8899,
+    "lng": -87.6337,
+    "url": "https://untitledsupperclub.com/",
+    "summary": "an unmarked revival speakeasy with magicians, jazz, and Tuesday happy hour.",
+    "description": "This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz. Happy hour is on Tuesdays from 5 to 7pm, with $10 Manhattans, Old Fashioneds, and Martinis. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress."
+  },
+  {
+    "name": "Alinea",
+    "category": "Food",
+    "type": "Tasting menu",
+    "neighborhood": "Lincoln Park",
+    "budget": "$500+",
+    "cuisine": [
+      "Tasting Menu"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.9134,
+    "lng": -87.6481,
+    "url": "https://www.alinearestaurant.com/",
+    "summary": "Chicago’s three-Michelin-star tasting menu, as much performance as dinner.",
+    "description": "Alinea is the indisputable premier restaurant in the city of Chicago. It is the only Chicago restaurant that has been awarded the coveted three Michelin stars and is commonly considered one of the best restaurants in the world. This is a multi-course tasting menu consisting of creative takes on classic cuisines. This meal is as much food as it is a performance. It is expensive, but truly worth every penny."
+  },
+  {
+    "name": "Cafecito",
+    "category": "Food",
+    "type": "Cuban",
+    "neighborhood": "The Loop",
+    "alsoIn": [
+      "South Loop",
+      "Streeterville",
+      "Lincoln Park"
+    ],
+    "budget": "$$",
+    "cuisine": [
+      "Cuban"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "picks": [],
+    "lat": 41.8781,
+    "lng": -87.6273,
+    "url": "http://chi.iheartcafecito.com/",
+    "summary": "great Cuban sandwiches for a reasonable price.",
+    "description": "Cafecito is a local Cuban chain restaurant. Great sandwiches for a reasonable price."
+  },
+  {
+    "name": "Slightly Toasted",
+    "category": "Bars",
+    "type": "Whiskey bar",
+    "neighborhood": "West Loop",
+    "budget": "$",
+    "cuisine": [
+      "Whiskey",
+      "Mexican"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "rewards": "InKind",
+    "lat": 41.8824,
+    "lng": -87.6415,
+    "url": "https://slightlytoasted.com/",
+    "summary": "a whiskey bar with a $5 plinko pour that might land you Malört or Pappy.",
+    "description": "Slightly Toasted is one of the best whiskey bars in the Chicago area. They have a plinko you-get-what-you-get style game for $5 a play/pour, which may land you some Malört or some Pappy. Play at your own risk. Their happy hour is called Whiskey Wednesdays, and they offer half-price pours of whiskeys. Keep an eye on their Instagram for events and bottle shares."
+  },
+  {
+    "name": "The Drifter",
+    "category": "Bars",
+    "type": "Speakeasy",
+    "neighborhood": "River North",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "lat": 41.8946,
+    "lng": -87.6374,
+    "url": "https://www.thedrifterchicago.com/",
+    "summary": "a speakeasy under the Green Door Tavern with a tarot-card cocktail menu.",
+    "description": "The Drifter is a classic speakeasy hidden in the basement of the Green Door Tavern. The cocktail menu is tarot-card based: what’s on offer is determined by which tarot cards are drawn from the deck that day. In addition to the tarot card menu, The Drifter charges a $6 per person cover after 6:30 for the shows, which can range from piano to burlesque."
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "category": "Bars",
+    "type": "Tiki bar",
+    "neighborhood": "River North",
+    "budget": "$$",
+    "cuisine": [
+      "Tiki",
+      "Cocktails",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8898,
+    "lng": -87.6307,
+    "url": "https://www.threedotschicago.com/",
+    "summary": "over-the-top tiki down a hidden alley. Book ahead.",
+    "description": "Three Dots and a Dash is a speakeasy-style bar that serves over-the-top tikis. The entrance is hidden in an alleyway among some small tiki huts. Every single cocktail is delicious here. I would recommend expecting to buy two cocktails a person when visiting. I would strongly recommend getting a reservation in advance because this place fills up quickly. Reservations are $10 per person, which will be applied to the bill. Three Dots also has a limited menu. This is a 21+ establishment."
+  },
+  {
+    "name": "Violet Hour",
+    "category": "Bars",
+    "type": "Cocktail lounge",
+    "neighborhood": "Wicker Park",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "closed": true,
+    "lat": 41.909,
+    "lng": -87.6778,
+    "url": "https://www.theviolethour.com/",
+    "summary": "the hidden cocktail lounge behind a door with a purple light. We miss it.",
+    "description": "Violet Hour was one of the best cocktail lounges in the city of Chicago. The bar was hidden behind a nondescript door with a purple light shining on it. Their cocktails were bespoke and non-traditional. In addition to their excellent cocktails, they served a limited food menu that included a pretty good burger."
+  },
+  {
+    "name": "Valedor",
+    "category": "Bars",
+    "type": "Cocktail bar",
+    "neighborhood": "Wicker Park",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Mexican",
+      "Japanese"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "rewards": "InKind",
+    "lat": 41.9108,
+    "lng": -87.6784,
+    "url": "https://www.valedorchi.com/",
+    "summary": "Mexican-Japanese fusion with a 5–7pm daily happy hour on Milwaukee.",
+    "description": "Valedor is a Mexican-Japanese fusion bar. This upscale spot is on Milwaukee in Wicker Park, putting it right next to the shopping district in the area. Their happy hour runs from 5 to 7 every day, with $12 cocktails and $8 tapas on the menu!"
+  },
+  {
+    "name": "Moneygun",
+    "category": "Bars",
+    "type": "Cocktail bar",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "lat": 41.8859,
+    "lng": -87.6451,
+    "url": "https://www.moneygunchicago.com/",
+    "summary": "a moody bar that can make anything, with a photobooth and summer patio.",
+    "description": "Moneygun is a moody, dark bar with an expansive drink menu. They can make any and all drinks, from tiki to classic martinis. They have a photobooth in the bar, and they open their patio “Sunnygun” in the summer."
+  },
+  {
+    "name": "Dorian’s",
+    "category": "Bars",
+    "type": "Speakeasy",
+    "neighborhood": "Wicker Park",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "lat": 41.9104,
+    "lng": -87.6766,
+    "url": "https://throughtherecordshop.com/",
+    "summary": "a speakeasy behind a record shop, with live music nightly at 8pm.",
+    "description": "Dorian’s is a speakeasy that lives behind a small record shop storefront on North Ave. The bar hosts live music nearly every night at 8pm. Before 8pm, the bar hosts a great happy hour so you can indulge while you wait."
+  },
+  {
+    "name": "Bar Mar",
+    "category": "Bars",
+    "type": "Seafood & cocktails",
+    "neighborhood": "The Loop",
+    "budget": "$$$",
+    "cuisine": [
+      "Cocktails",
+      "Spanish",
+      "Seafood"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "rewards": "InKind",
+    "lat": 41.8834,
+    "lng": -87.6372,
+    "url": "https://www.thebazaar.com/bar-mar-chicago-menu/",
+    "summary": "dry-ice and liquid-nitrogen cocktails. Order anything with an “aromatic cloud.”",
+    "description": "Bar Mar is an upscale seafood restaurant and cocktail bar. We can’t speak to Bar Mar’s food menu, as it is, in our opinion, price prohibitive, but their cocktails are incredibly good. They experiment a lot with dry ice, which makes for a unique cocktail experience that you cannot replicate at home. We recommend going for anything that has “aromatic cloud” or “liquid nitrogen” as ingredients."
+  },
+  {
+    "name": "Queen Mary Tavern",
+    "category": "Bars",
+    "type": "Rum & sherry bar",
+    "neighborhood": "Wicker Park",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Seafood"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "lat": 41.9028,
+    "lng": -87.6807,
+    "url": "https://www.queenmarytavern.com/",
+    "summary": "rum and sherry, with $4 “break-even” pours and cheap oysters at happy hour.",
+    "description": "The Queen Mary is a cocktail bar focusing on rum and sherry. Their happy hour sometimes includes “break-even” rum pours for $4 or cheap oysters. Check their Instagram for the latest happy hour deals."
+  },
+  {
+    "name": "Bisous",
+    "category": "Bars",
+    "type": "Parisian bar",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Desserts"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8869,
+    "lng": -87.6513,
+    "url": "https://www.bisouschicago.com/",
+    "summary": "a romantic Parisian bar that will mail your postcards for free.",
+    "description": "Bisous is a romantic, walk-in bar in the Fulton Market area of West Loop. Bisous leans into a Parisian theme. You can ask for postcards to write out, and they will send them out for you for free."
+  },
+  {
+    "name": "Truce",
+    "category": "Bars",
+    "type": "Espresso & cocktails",
+    "neighborhood": "Bucktown",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Coffee",
+      "Bar Bites"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [],
+    "lat": 41.917,
+    "lng": -87.6774,
+    "url": "https://www.trucechicago.com/",
+    "summary": "a dim little bar serving espresso late into the night.",
+    "description": "Truce is a small cocktail bar that serves espressos late into the night. It’s dimly lit and offers an intimate setting for a date night."
+  },
+  {
+    "name": "Luxbar",
+    "category": "Bars",
+    "type": "Tavern",
+    "neighborhood": "Gold Coast",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "American"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.9018,
+    "lng": -87.6276,
+    "url": "https://luxbar.com/",
+    "summary": "fries and a cocktail off Michigan Ave, and where we went right after we got engaged.",
+    "description": "Luxbar is an upscale tavern serving premium drinks and American food. In the heart of the Gold Coast, a plate of fries and a cocktail can be the perfect snack when you want a break from shopping on Michigan Ave. Luxbar holds a special place in our hearts, as it’s where we went right after we got engaged. ♥"
+  },
+  {
+    "name": "Carbon",
+    "category": "Bars",
+    "type": "Italian lounge",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "Cocktails",
+      "Italian"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "rewards": "InKind",
+    "lat": 41.8856,
+    "lng": -87.657,
+    "url": "https://www.carbon-chicago.com/",
+    "summary": "a blacked-out Italian lounge. The Caviar Bump is a must.",
+    "description": "Carbon is a clubby Italian lounge. The entire restaurant is blacked out, and there are two massive glowing purple women leaning over the bar from the greenery wall. They serve a small portion of caviar in a bespoke format called the Caviar Bump, which is a must-try."
+  },
+  {
+    "name": "Machine",
+    "category": "Bars",
+    "type": "Cocktails & florist",
+    "neighborhood": "River North",
+    "budget": "$$$",
+    "cuisine": [
+      "Cocktails",
+      "New American"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8972,
+    "lng": -87.6355,
+    "url": "https://www.dinemachine.com/",
+    "summary": "breakable candy-cage cocktails, flaming drinks, and flowers to take home.",
+    "description": "Machine is a beautiful restaurant serving elevated bar food and exceptionally creative cocktails. The cocktails served at Machine include “breakable” cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine."
+  },
+  {
+    "name": "Dearly Beloved",
+    "category": "Bars",
+    "type": "Cocktail restaurant",
+    "neighborhood": "River North",
+    "budget": "$$$",
+    "cuisine": [
+      "Cocktails",
+      "New American",
+      "Desserts"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8992,
+    "lng": -87.6361,
+    "url": "https://www.dearlybelovedchicago.com/",
+    "summary": "Machine’s moodier sibling, with tarantula tincture and a divine chocolate cake.",
+    "description": "Dearly Beloved is Machine’s moodier restaurant. The drinks are experimental and avant-garde. There is a drink boasting tarantula tincture, among other items on the menu. Their chocolate cake is divine."
+  },
+  {
+    "name": "The Office",
+    "category": "Bars",
+    "type": "Speakeasy",
+    "neighborhood": "West Loop",
+    "budget": "$$$",
+    "cuisine": [
+      "Cocktails",
+      "Small Plates"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8863,
+    "lng": -87.6523,
+    "url": "https://www.theaviary.com/the-office",
+    "summary": "a 20-seat Alinea Group speakeasy beneath The Aviary.",
+    "description": "The Office is a tiny speakeasy within The Aviary, and both are Alinea Group restaurants. The restaurant’s capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased à la carte or as part of a dinner/drinks package. Reservations recommended."
+  },
+  {
+    "name": "The Aviary",
+    "category": "Bars",
+    "type": "Cocktail tasting menu",
+    "neighborhood": "West Loop",
+    "budget": "$$$$",
+    "cuisine": [
+      "Cocktails",
+      "Tasting Menu"
+    ],
+    "meal": [
+      "Drinks"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8867,
+    "lng": -87.6517,
+    "url": "https://www.theaviary.com/",
+    "summary": "multi-course cocktail menus from the Alinea Group.",
+    "description": "The Aviary is arguably the most prestigious bar in Chicago. Yet another creation from the Alinea Group, The Aviary specializes in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea gives all food in its ecosystem."
+  },
+  {
+    "name": "Chicago Architecture Center",
+    "category": "Activities",
+    "type": "Museum",
+    "neighborhood": "The Loop",
+    "budget": "$14",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.888,
+    "lng": -87.6236,
+    "url": "https://www.architecture.org/",
+    "summary": "exhibits on the city’s architecture. Pair it with the river cruise.",
+    "description": "The Chicago Architecture Center offers exhibits and education on Chicago’s architecture. Chicago is an architectural capital of the world, and I highly recommend pairing this exhibit with a river tour."
+  },
+  {
+    "name": "Adler Planetarium",
+    "category": "Activities",
+    "type": "Museum",
+    "neighborhood": "South Loop",
+    "budget": "$19",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8664,
+    "lng": -87.6066,
+    "url": "https://www.adlerplanetarium.org/",
+    "summary": "the premier planetarium at the tip of the Museum Campus.",
+    "description": "The Adler Planetarium is the premier planetarium in the heart of Chicago’s Museum Campus."
+  },
+  {
+    "name": "Museum of Science and Industry",
+    "category": "Activities",
+    "type": "Museum",
+    "neighborhood": "Hyde Park",
+    "budget": "$22",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.7907,
+    "lng": -87.5829,
+    "url": "https://www.msichicago.org/",
+    "summary": "a family-friendly museum with a genetics exhibit and a massive U-boat.",
+    "description": "The Museum of Science and Industry is an excellent family-friendly museum. It has a weather section, a genetics exhibit, and a massive U-boat."
+  },
+  {
+    "name": "Field Museum",
+    "category": "Activities",
+    "type": "Museum",
+    "neighborhood": "South Loop",
+    "budget": "$29",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8662,
+    "lng": -87.6169,
+    "url": "https://www.fieldmuseum.org/",
+    "summary": "Sue the T. rex and a beautiful gems hall.",
+    "description": "The Field Museum is the best natural history museum in the city. It is home to Sue, one of the largest and most complete T. rex fossils in the world. There is also a really beautiful gems exhibit."
+  },
+  {
+    "name": "Shedd Aquarium",
+    "category": "Activities",
+    "type": "Aquarium",
+    "neighborhood": "South Loop",
+    "budget": "$40",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8676,
+    "lng": -87.6137,
+    "url": "https://www.sheddaquarium.org/",
+    "summary": "sharks, dolphins, sea turtles, and penguins on the lakefront.",
+    "description": "The Shedd Aquarium is one of the best aquariums in the US. There are sharks, dolphins, sea turtles, penguins, and reptiles."
+  },
+  {
+    "name": "The Bean",
+    "category": "Activities",
+    "type": "Landmark",
+    "neighborhood": "The Loop",
+    "budget": "Free",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8826,
+    "lng": -87.6233,
+    "url": "https://www.choosechicago.com/articles/tours-and-attractions/the-bean/",
+    "summary": "Cloud Gate in Millennium Park, an essential first stop.",
+    "description": "You know what The Bean is; its official name is Cloud Gate. It’s located in Millennium Park, which is just north of Grant Park."
+  },
+  {
+    "name": "Grant Park",
+    "category": "Activities",
+    "type": "Park",
+    "neighborhood": "The Loop",
+    "budget": "Free",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8756,
+    "lng": -87.6197,
+    "url": "https://www.choosechicago.com/articles/parks-outdoors/grant-park/",
+    "summary": "Buckingham Fountain, gardens, and the lake right next door.",
+    "description": "A beautiful public park located in downtown Chicago! Grant Park is a lovely area to walk around and take in gorgeous sights like Buckingham Fountain. It’s conveniently next to the lake, so you can visit both at once."
+  },
+  {
+    "name": "Chinatown",
+    "category": "Activities",
+    "type": "Neighborhood",
+    "neighborhood": "Chinatown",
+    "budget": "Free (bring spending money)",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8525,
+    "lng": -87.6328,
+    "url": "https://www.choosechicago.com/neighborhoods/chinatown/",
+    "summary": "markets, Michelin-reviewed dim sum at MingHin, and boba.",
+    "description": "Chinatown is a beautiful neighborhood in the southwest portion of Chicago. This neighborhood is home to a market, several Chinese restaurants (such as the Michelin-reviewed dim sum restaurant MingHin), and a few boba vendors."
+  },
+  {
+    "name": "Navy Pier",
+    "category": "Activities",
+    "type": "Attraction",
+    "neighborhood": "Streeterville",
+    "budget": "Free entry · $18 Ferris wheel",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8917,
+    "lng": -87.6085,
+    "url": "https://navypier.org/",
+    "summary": "lakefront views, rides, and the famous Ferris wheel.",
+    "description": "Navy Pier is a tourist attraction that provides lakefront views, restaurants, and shopping opportunities. There are vendors selling handmade goods and food. There are multiple rides, such as the famous Chicago Ferris wheel. Margaritaville, Giordano’s, and Harry Caray’s are among the restaurants that line the pier."
+  },
+  {
+    "name": "Lakefront & Riverfront",
+    "category": "Activities",
+    "type": "Outdoors",
+    "neighborhood": "Lakefront",
+    "budget": "Free",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8864,
+    "lng": -87.6113,
+    "url": "https://www.chicagoparkdistrict.com/parks-facilities/lakefront-trail",
+    "summary": "free paths along the water, best by bike on the lake.",
+    "description": "The Lakefront and the Riverfront offer free walking paths for enjoying the waterways of the city. The Lakefront is particularly good for renting a public bike and riding along the path. The Riverfront is excellent for leisurely strolls. Both have some small outdoor restaurants and bars for cocktails and snacks."
+  },
+  {
+    "name": "Willis Tower",
+    "category": "Activities",
+    "type": "Observation deck",
+    "neighborhood": "The Loop",
+    "budget": "$30",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8789,
+    "lng": -87.6359,
+    "url": "https://theskydeck.com/",
+    "summary": "the Skydeck and its glass Ledge, 1,300 feet up.",
+    "description": "The Sears/Willis Tower is the tallest building in Chicago. The top of the tower has an observatory as well as the “Ledge.” The Ledge is a glass box that extends off the side of the tower, providing a full view of what Chicago looks like from over 1,300 feet in the air."
+  },
+  {
+    "name": "360 Chicago",
+    "category": "Activities",
+    "type": "Observation deck",
+    "neighborhood": "Streeterville",
+    "budget": "$30–$55",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.8989,
+    "lng": -87.6229,
+    "url": "https://360chicago.com/",
+    "summary": "94 floors up, with a bar and the tilting TILT window.",
+    "description": "This is an observation deck on the 94th floor of the John Hancock Center offering an incredible view of the entire city. It also has a bar and a ride called TILT, a window that you hold onto as it physically tilts 30 degrees out of the building. $30–$35 for admission, or $49–$55 for admission, TILT, and a drink ticket."
+  },
+  {
+    "name": "The Escape Game",
+    "category": "Activities",
+    "type": "Escape room",
+    "neighborhood": "River North",
+    "budget": "$40 per person",
+    "cuisine": [],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8917,
+    "lng": -87.6348,
+    "url": "https://theescapegame.com/chicago/",
+    "summary": "high-production escape rooms downtown.",
+    "description": "The Escape Game is an exciting escape room with high production value in downtown Chicago."
+  },
+  {
+    "name": "Art Institute of Chicago",
+    "category": "Activities",
+    "type": "Museum",
+    "neighborhood": "The Loop",
+    "budget": "$25",
+    "cuisine": [],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8796,
+    "lng": -87.6237,
+    "url": "https://www.artic.edu/",
+    "summary": "Van Gogh, Monet, Chagall, and a beautiful arms and armor hall.",
+    "description": "The Art Institute of Chicago is one of the finest art museums in the country. The Art Institute is home to pieces by Van Gogh, Monet, Chagall, and more. Additionally, there is a beautiful Medieval arms exhibit showcasing the armor and swords of the Dark Ages."
+  },
+  {
+    "name": "Second City",
+    "category": "Activities",
+    "type": "Comedy",
+    "neighborhood": "Old Town",
+    "budget": "$50",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.9105,
+    "lng": -87.6347,
+    "url": "https://www.secondcity.com/",
+    "summary": "the improv troupe that launched Belushi, Fey, and Myers.",
+    "description": "Second City is a premier improv comedy troupe that has been based and continually operating in Chicago since the 1950s. The troupe has had graduates who went on to become comedy staples and major SNL performers. John Belushi, Tina Fey, and Mike Myers are notable alumni."
+  },
+  {
+    "name": "Architecture River Cruise",
+    "category": "Activities",
+    "type": "Tour",
+    "neighborhood": "The Loop",
+    "budget": "$57 per person + fees",
+    "cuisine": [],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8873,
+    "lng": -87.6247,
+    "url": "https://www.architecture.org/",
+    "summary": "the Chicago Architecture Center’s 1.5-hour tour of the river.",
+    "description": "Chicago has a fascinating architectural history, and the Chicago Architecture Center is here to tell you all about it. The cruise is about 1.5 hours and goes up and down the downtown portion of the Chicago River. There are several river tours, but make sure to take the Chicago Architecture Center’s tour, as they do an incredible job. An additional $5 gets you admission to the Chicago Architecture Center."
+  },
+  {
+    "name": "Alchemy Arts",
+    "category": "Activities",
+    "type": "Occult shop",
+    "neighborhood": "Edgewater",
+    "budget": "Varies",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.9957,
+    "lng": -87.6598,
+    "url": "https://www.instagram.com/alchemyartsoccult/",
+    "summary": "a metaphysical bookstore guarded by Marie, a black cat.",
+    "description": "Alchemy Arts is a metaphysical occult store in the Edgewater neighborhood of Chicago. This store sells books and accoutrements for various alternative faiths. This store stocks tarot cards, ritual candles, crystals, and more. The store is guarded by Marie, a black cat."
+  },
+  {
+    "name": "The Last Chapter",
+    "category": "Activities",
+    "type": "Bookstore",
+    "neighborhood": "Roscoe Village",
+    "budget": "Varies",
+    "cuisine": [],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.9464,
+    "lng": -87.6828,
+    "url": "https://thelastchapterbookshop.com/",
+    "summary": "a cozy, romance-only bookstore with author events.",
+    "description": "The Last Chapter Bookstore is a romance-only bookstore in Chicago’s Roscoe Village neighborhood. In addition to their cozy, welcoming atmosphere, the store regularly hosts book signing/Q&A events with romance authors. If books aren’t your thing, this store also stocks candles and cozy Taylor Swift merch."
+  },
+  {
+    "name": "Sideshow Gallery",
+    "category": "Activities",
+    "type": "Oddities shop",
+    "neighborhood": "Bucktown",
+    "budget": "Varies",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.9079,
+    "lng": -87.6803,
+    "url": "https://www.sideshowgallerychicago.com/",
+    "summary": "skulls, spells, and other eccentricities.",
+    "description": "An oddities store selling skulls, spells, erotica, and more eccentricities. They also offer spellcasting classes."
+  },
+  {
+    "name": "AIR Aerial Fitness",
+    "category": "Activities",
+    "type": "Aerial gym",
+    "neighborhood": "Lincoln Park",
+    "budget": "$25 for a week pass",
+    "cuisine": [],
+    "picks": [],
+    "lat": 41.9182,
+    "lng": -87.6524,
+    "url": "https://www.airfitnow.com/",
+    "summary": "aerial hammock classes, right next to Pequod’s.",
+    "description": "If you’d like to work out during your stay, I recommend trying out aerial gyms. AIR is a great gym that specializes in aerial hammocks. The classes range from traditional conditioning in their “foundations” courses to yoga using the fabrics in their “flow” courses."
+  },
+  {
+    "name": "Christkindlmarket",
+    "category": "Seasonal",
+    "type": "Holiday market",
+    "neighborhood": "The Loop",
+    "alsoIn": [
+      "Wrigleyville",
+      "Aurora (suburb)"
+    ],
+    "budget": "Free entry · ~$20 to spend",
+    "cuisine": [],
+    "picks": [],
+    "when": "Late November – late December",
+    "season": [
+      11,
+      20,
+      12,
+      24
+    ],
+    "lat": 41.8832,
+    "lng": -87.6241,
+    "url": "https://www.christkindlmarket.com/",
+    "summary": "ornaments, food, and mulled wine at the German-style holiday market.",
+    "description": "Christkindlmarket is a Christmas market where artisans open up booths and sell tree ornaments, food, and more. Admission is free, but it is a market, so I’d recommend $20 in spending cash per person."
+  },
+  {
+    "name": "Maggie Daley Ice Ribbon",
+    "category": "Seasonal",
+    "type": "Ice skating",
+    "neighborhood": "The Loop",
+    "budget": "$16–$20 skate rental",
+    "cuisine": [],
+    "picks": [],
+    "when": "November – March",
+    "season": [
+      11,
+      1,
+      3,
+      31
+    ],
+    "lat": 41.8813,
+    "lng": -87.6218,
+    "url": "https://maggiedaleypark.com/things-to-do-see/skating-ribbon/",
+    "summary": "the looping skating ribbon in Maggie Daley Park.",
+    "description": "Maggie Daley Park is a public park in the city. During winter, they open the Ribbon portion as an outdoor ice skating path."
+  },
+  {
+    "name": "Lollapalooza",
+    "category": "Seasonal",
+    "type": "Music festival",
+    "neighborhood": "The Loop",
+    "budget": "$150 a day · ~$500 weekend",
+    "cuisine": [],
+    "picks": [],
+    "when": "Late July – early August",
+    "season": [
+      7,
+      20,
+      8,
+      10
+    ],
+    "lat": 41.8747,
+    "lng": -87.6185,
+    "url": "https://www.lollapalooza.com/",
+    "summary": "four days of music filling Grant Park.",
+    "description": "Lollapalooza is a major US music festival that takes place annually in downtown Chicago’s Grant Park."
+  },
+  {
+    "name": "Stan’s Donuts",
+    "category": "Food",
+    "type": "Donuts",
+    "neighborhood": "The Loop",
+    "alsoIn": [
+      "West Loop",
+      "South Loop",
+      "Streeterville",
+      "Wicker Park",
+      "Lakeview"
+    ],
+    "budget": "$",
+    "cuisine": [
+      "Donuts",
+      "Coffee"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "lat": 41.8854,
+    "lng": -87.6246,
+    "url": "https://www.stansdonuts.com/",
+    "summary": "cute donuts with a cohesive aesthetic, though quality can be hit-or-miss.",
+    "description": "Stan’s Donuts is another local donut chain. They have very cute donuts and a more cohesive aesthetic. We find the quality can be hit-or-miss."
+  },
+  {
+    "name": "Voodoo Doughnut",
+    "category": "Food",
+    "type": "Donuts",
+    "neighborhood": "West Loop",
+    "budget": "$$",
+    "cuisine": [
+      "Donuts",
+      "Coffee"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "lat": 41.8845,
+    "lng": -87.6514,
+    "url": "https://www.voodoodoughnut.com/",
+    "summary": "the national chain’s creative, fun-designed donuts in the food district.",
+    "description": "Voodoo Doughnut is a national chain with a location in the heart of the Chicago food district. They offer creative donuts with fun designs."
+  },
+  {
+    "name": "Cafe L’Appetito",
+    "category": "Food",
+    "type": "Italian cafe",
+    "neighborhood": "River North",
+    "budget": "$",
+    "cuisine": [
+      "Italian",
+      "Bakery & Pastries"
+    ],
+    "meal": [
+      "Coffee & pastry"
+    ],
+    "lat": 41.8952,
+    "lng": -87.6266,
+    "url": "https://lappetito.com/",
+    "summary": "an Italian cafe and grocer for pastries, sandwiches, and little candies.",
+    "description": "A small Italian cafe/store/bakery that serves a variety of pastries and fresh-made sandwiches. In addition to traditional Italian cafe fare, this store offers a selection of Italian grocery items, so it’s a great place to pick up little candies, beverages, and cookies. There is a small private outdoor seating area next to the exit of the cafe."
+  },
+  {
+    "name": "Egg Harbor Cafe",
+    "category": "Food",
+    "type": "Breakfast",
+    "neighborhood": "Streeterville",
+    "budget": "$$",
+    "cuisine": [
+      "Breakfast & Brunch",
+      "Coffee"
+    ],
+    "meal": [
+      "Brunch"
+    ],
+    "picks": [
+      "edwin"
+    ],
+    "lat": 41.8916,
+    "lng": -87.6216,
+    "url": "https://eggharborcafe.com/",
+    "summary": "a good, reasonably priced sit-down breakfast downtown.",
+    "description": "Egg Harbor is a sit-down breakfast chain. This is one of the more reasonably priced restaurants downtown, especially considering that the food is good and the restaurant has a nice atmosphere. There are more locations in the suburbs."
+  },
+  {
+    "name": "Cafe Robey",
+    "category": "Food",
+    "type": "Brunch",
+    "neighborhood": "Wicker Park",
+    "budget": "$$",
+    "cuisine": [
+      "Breakfast & Brunch",
+      "Coffee"
+    ],
+    "meal": [
+      "Brunch"
+    ],
+    "lat": 41.9103,
+    "lng": -87.6782,
+    "url": "https://www.caferobey.com/",
+    "summary": "a chic all-day brunch spot inside the Robey Hotel. Book weekends.",
+    "description": "Cafe Robey is a chic all-day brunch spot nestled within the Robey Hotel, an independent hotel in the heart of Wicker Park. This classic brunch spot boasts a long list of cocktails and breakfast food, ranging from sweet to savory. Reservations are a good call for weekends."
+  },
+  {
+    "name": "International McDonald’s",
+    "category": "Food",
+    "type": "Global menu",
+    "neighborhood": "West Loop",
+    "budget": "$",
+    "cuisine": [
+      "American",
+      "Burgers",
+      "Fried Chicken"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "lat": 41.8845,
+    "lng": -87.6535,
+    "url": "https://www.ubereats.com/store/mcdonalds-global-menu-restaurant/l60CCNz0RNi_6IsxFoPzEw/f3f308a2-ac92-5f66-b775-44ae20d9d0bb",
+    "summary": "the McDonald’s at Hamburger University, with menu items from around the world.",
+    "description": "Chicago is home to McDonald’s global headquarters. In addition to their global headquarters, their famous Hamburger University training center is also located in West Loop. Within Hamburger University is the international McDonald’s. This McDonald’s has all the food you’re familiar with as well as menu items from China, France, and more."
+  },
+  {
+    "name": "Krasa",
+    "category": "Food",
+    "type": "Burgers & shawarma",
+    "neighborhood": "West Town",
+    "budget": "$$",
+    "cuisine": [
+      "Ukrainian",
+      "Burgers",
+      "Shawarma"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "lat": 41.9028,
+    "lng": -87.6673,
+    "url": "https://www.krasacraftrestaurant.com/",
+    "summary": "Ukrainian burgers and shawarma with a beautiful back patio.",
+    "description": "Krasa (formerly known as Lawn) is a Ukrainian burger and shawarma restaurant on the border of Wicker Park and West Town. They have a beautiful patio/dine-in area in the back."
+  },
+  {
+    "name": "Portillo’s",
+    "category": "Food",
+    "type": "Chicago street food",
+    "neighborhood": "River North",
+    "budget": "$$",
+    "cuisine": [
+      "American",
+      "Hot Dogs",
+      "Italian Beef"
+    ],
+    "meal": [
+      "Quick bite"
+    ],
+    "lat": 41.8935,
+    "lng": -87.6315,
+    "url": "https://www.portillos.com/",
+    "summary": "Italian beef, Chicago-style hot dogs, and the chocolate cake shake.",
+    "description": "Portillo’s is a fast food chain that serves traditional Chicago street food, such as Italian beef sandwiches, Chicago-style hot dogs, and a chocolate cake shake."
+  },
+  {
+    "name": "Pizzeria Uno",
+    "category": "Food",
+    "type": "Deep dish",
+    "neighborhood": "River North",
+    "budget": "$$",
+    "cuisine": [
+      "Deep Dish Pizza"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "lat": 41.8923,
+    "lng": -87.6269,
+    "url": "https://www.pizzeriaunodue.com/",
+    "summary": "the original home of deep dish. Go early or get takeout.",
+    "description": "There are Uno’s pizza places, and then there is the Pizzeria Uno. The one we refer to here is the original place where deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. It is very small and very popular, so we recommend either getting takeout or going early on a weekday to decrease your chances of waiting a while."
+  },
+  {
+    "name": "Athena Restaurant",
+    "category": "Food",
+    "type": "Greek",
+    "neighborhood": "Greektown",
+    "budget": "$$",
+    "cuisine": [
+      "Greek"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8787,
+    "lng": -87.6476,
+    "url": "https://www.athenachicago.com/",
+    "summary": "a stunning Greektown dining room with flaming saganaki.",
+    "description": "Athena Restaurant is a stunning Greek restaurant in Greektown. The restaurant boasts an interior reminiscent of ancient Greek buildings. In the summer, the ceiling is removed, functionally turning the entire restaurant into an outdoor patio. The saganaki fried cheese is a must, as they set it on fire in front of you."
+  },
+  {
+    "name": "MCCB",
+    "category": "Food",
+    "type": "Szechuan",
+    "neighborhood": "Chinatown",
+    "budget": "$$",
+    "cuisine": [
+      "Chinese",
+      "Szechuan"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "picks": [
+      "edwin"
+    ],
+    "lat": 41.8539,
+    "lng": -87.6337,
+    "url": "https://www.mccbchicago.com/",
+    "summary": "walk-in Szechuan in Chinatown. Get the dry chili chicken and mapo tofu.",
+    "description": "MCCB is a walk-in only Szechuan Chinese restaurant in Chinatown. We recommend the dry chili chicken and mapo tofu, and getting large plates to split. On a weekend at peak hours, get there about an hour before you want to eat to get on the waiting list."
+  },
+  {
+    "name": "D4 Irish Pub",
+    "category": "Food",
+    "type": "Irish pub",
+    "neighborhood": "Streeterville",
+    "budget": "$$",
+    "cuisine": [
+      "Irish"
+    ],
+    "meal": [
+      "Casual sit-down"
+    ],
+    "lat": 41.8921,
+    "lng": -87.6191,
+    "url": "https://www.d4pub.com/",
+    "summary": "a cozy, upscale Irish pub with fireplaces and a wall of books.",
+    "description": "D4 Irish Pub offers classic Irish cuisine in an upscale setting. This restaurant also specializes in whiskeys. The atmosphere is extremely cozy, with multiple fireplaces, wood furniture, and a wall of books."
+  },
+  {
+    "name": "Niu Japanese Fusion",
+    "category": "Food",
+    "type": "Japanese",
+    "neighborhood": "Streeterville",
+    "budget": "$$",
+    "cuisine": [
+      "Japanese",
+      "Sushi"
+    ],
+    "meal": [
+      "Dressy casual"
+    ],
+    "lat": 41.8912,
+    "lng": -87.6187,
+    "url": "https://www.niusushi.com/",
+    "summary": "high-end sushi and lychee cocktails a few blocks from Navy Pier.",
+    "description": "Niu is an excellent high-end Japanese restaurant. In addition to the sushi, they have excellent lychee-based cocktails and desserts. It is located in Streeterville, a few blocks down the street from Navy Pier."
+  },
+  {
+    "name": "Trivoli Tavern",
+    "category": "Food",
+    "type": "Tavern",
+    "neighborhood": "West Loop",
+    "budget": "$$$",
+    "cuisine": [
+      "Steakhouse",
+      "Seafood"
+    ],
+    "meal": [
+      "Dressy casual"
+    ],
+    "lat": 41.8818,
+    "lng": -87.655,
+    "url": "https://www.trivolitavern.com/",
+    "summary": "a classy 1950s tavern down a cobblestone alley, perfect for winter date night.",
+    "description": "A classy 1950s-style tavern with elevated, classic, hearty food. Trivoli is located at the end of a cobblestone alleyway in the West Loop neighborhood. The vibe is perfect for a cozy winter date night."
+  },
+  {
+    "name": "Sayat Nova",
+    "category": "Food",
+    "type": "Armenian",
+    "neighborhood": "Streeterville",
+    "budget": "$$",
+    "cuisine": [
+      "Armenian"
+    ],
+    "meal": [
+      "Dressy casual"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.8923,
+    "lng": -87.6232,
+    "url": "https://sayatnovachicago.com/menu",
+    "summary": "authentic Armenian food in a gorgeous, pattern-filled room.",
+    "description": "Sayat Nova is a restaurant that serves authentic Armenian food. It errs on the pricey side, but the food is well worth it. The restaurant was designed with inspiration from Turkish and Armenian design patterns, producing a gorgeous interior."
+  },
+  {
+    "name": "Le Colonial",
+    "category": "Food",
+    "type": "French-Vietnamese",
+    "neighborhood": "Gold Coast",
+    "budget": "$$$",
+    "cuisine": [
+      "French",
+      "Vietnamese"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "stephanie",
+      "edwin"
+    ],
+    "lat": 41.9006,
+    "lng": -87.6261,
+    "url": "https://www.lecolonialchicago.com/",
+    "summary": "upscale French-Vietnamese in the heart of the Gold Coast shopping district.",
+    "description": "Le Colonial is an upscale French-Vietnamese restaurant in the Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended."
+  },
+  {
+    "name": "Odyssey Dinner Cruise",
+    "category": "Food",
+    "type": "Dinner cruise",
+    "neighborhood": "Streeterville",
+    "budget": "$200+",
+    "cuisine": [
+      "American"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "picks": [
+      "stephanie"
+    ],
+    "lat": 41.8905,
+    "lng": -87.6045,
+    "url": "https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise",
+    "summary": "a gourmet meal on a 2–3 hour luxury cruise, made for big celebrations.",
+    "description": "The Odyssey dinner cruise is one of the more expensive meals in Chicago. The Odyssey offers a gourmet meal while taking patrons on a 2–3 hour luxury cruise on the lake or river. The lake cruise leaves from Navy Pier and the river cruise from Streeterville. This is an excellent experience that I would strongly recommend for a graduation, anniversary, or birthday. The attire is cocktail/formal."
+  },
+  {
+    "name": "Fire",
+    "category": "Food",
+    "type": "Tasting menu",
+    "neighborhood": "West Loop",
+    "budget": "$250+",
+    "cuisine": [
+      "Tasting Menu"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "closed": true,
+    "lat": 41.8864,
+    "lng": -87.6512,
+    "url": "https://www.firebythealineagroup.com/",
+    "summary": "Grant Achatz’s open-fire tasting menu. Now closed.",
+    "description": "Fire was a new-concept restaurant by Alinea executive chef Grant Achatz. The concept revolved around fire being the base of all the food created. The tasting menu was a multi-course meal containing everything from seafood to meats to mushrooms to desserts. Wine pairing recommended."
+  },
+  {
+    "name": "Next",
+    "category": "Food",
+    "type": "Tasting menu",
+    "neighborhood": "West Loop",
+    "budget": "$300+",
+    "cuisine": [
+      "Tasting Menu"
+    ],
+    "meal": [
+      "Fancy night out"
+    ],
+    "lat": 41.8869,
+    "lng": -87.6523,
+    "url": "https://www.nextrestaurant.com/",
+    "summary": "Grant Achatz’s experimental restaurant with a seasonally rotating menu.",
+    "description": "Next is the experimental restaurant by Alinea executive chef Grant Achatz. Next operates a rotating menu that changes on a seasonal basis, and menus can range from Bobby Flay to Charlie Trotter. If you are looking to visit, ensure you have a reservation and know which menu you are going to get. Wine pairing also recommended."
+  },
+  {
+    "name": "Unbridled at Untitled",
+    "category": "Activities",
+    "type": "Burlesque show",
+    "neighborhood": "River North",
+    "budget": "$5 entertainment fee + food & drinks",
+    "lat": 41.8902,
+    "lng": -87.6332,
+    "url": "https://untitledsupperclub.com/unbridled/",
+    "summary": "a Thursday burlesque and variety show at Untitled Supper Club.",
+    "description": "The Unbridled show is a burlesque/variety show that Untitled Supper Club hosts every Thursday. The shows change and sport new cast members and acts regularly."
+  },
+  {
+    "name": "Chicago Crime Tour",
+    "category": "Activities",
+    "type": "Bus tour",
+    "neighborhood": "Streeterville",
+    "budget": "$42 per person",
+    "lat": 41.8974,
+    "lng": -87.6235,
+    "url": "https://chicagocrimetours.com/",
+    "summary": "a charter bus through Chicago’s rich crime history.",
+    "description": "The Chicago Crime Tour takes you around in a charter bus to tell you about Chicago’s rich crime history. This is the tour that makes it possible for you to be the person in your friend group who says things like “did you know about the Tylenol murders?” when you pass a Walgreens. Tours start and end outside 163 E. Pearson St."
+  },
+  {
+    "name": "Starbucks Reserve Chicago",
+    "category": "Activities",
+    "type": "Coffee roastery",
+    "neighborhood": "Streeterville",
+    "budget": "$7 coffee · $17 cocktail",
+    "picks": [
+      "edwin"
+    ],
+    "lat": 41.8939,
+    "lng": -87.6246,
+    "url": "https://www.starbucksreserve.com/en-us/locations/chicago",
+    "summary": "one of the largest Starbucks in the world, espresso martinis included.",
+    "description": "The Starbucks Roastery is one of the largest Starbucks in the world. This multi-level Michigan Ave Reserve location serves everything from regular coffee to espresso martinis to baked goods. It frequently has a line out the door."
+  },
+  {
+    "name": "Wicker Park Shopping",
+    "category": "Activities",
+    "type": "Shopping district",
+    "neighborhood": "Wicker Park",
+    "budget": "Varies",
+    "lat": 41.9074,
+    "lng": -87.6726,
+    "summary": "boutiques, thrift, and vintage at much better prices than downtown.",
+    "description": "Northwest of downtown, there’s an up-and-coming/hipster district that includes a lot of good food and shopping at much better prices than downtown. These are largely boutique stores and thrift shops. I’d advise taking the Blue Line out, exiting at the Division stop, and heading NW on Milwaukee or W on Division. Highlights: Ragstock (thrift store with lots of flannel); Belmont Army (surplus shop with some actually interesting surplus); Mildblend Supply (high-end denim); Geology Rocks! And Minerals (a good place to look at and buy rocks); Secret Agent Supply; Myopic Books; store B vintage (vintage boutique)."
+  },
+  {
+    "name": "Magnificent Mile",
+    "category": "Activities",
+    "type": "Shopping district",
+    "neighborhood": "Streeterville",
+    "budget": "Varies",
+    "lat": 41.8905,
+    "lng": -87.6244,
+    "summary": "Chicago’s premier shopping street, from flagships to the Tribune Tower.",
+    "description": "This is the premier shopping district of Chicago. Highlights: Tribune Tower, where stones from famous places like the Colosseum and the Berlin Wall are embedded in the former home of the Chicago Tribune (sounds weird, but it’s a fun way to spend 20 minutes); the Wrigley Building, with a beautiful walkway, a Ghirardelli store, and a Lou Malnati’s; Water Tower Place, a large mall with iconic stores like the American Girl store; the Chicago Water Tower, one of the few buildings that survived the Great Chicago Fire; luxury flagships (Saks Fifth Avenue, Tiffany & Co., Cartier); luxury consignment (The RealReal); and traditional flagships (Apple, Under Armour, Nike, Sephora, etc.)."
+  },
+  {
+    "name": "State Street",
+    "category": "Activities",
+    "type": "Shopping district",
+    "neighborhood": "The Loop",
+    "budget": "Varies",
+    "lat": 41.8833,
+    "lng": -87.6278,
+    "summary": "the lower-key Mag Mile 2, with the Chicago Theatre and the Goth Target.",
+    "description": "If Mag Mile is so good, why isn’t there a Mag Mile 2? Well, that’s what State Street is, more or less. After crossing into the Loop from the north, State turns into another, more low-key, entertainment and shopping center. Highlights: the Chicago Theatre (iconic sign, sometimes interesting acts); stores like Uniqlo, Macy’s, Crocs, Zara, and Blick; and the Goth Target, a normal Target whose outside has gothic architectural elements."
+  },
+  {
+    "name": "Gold Coast Shopping",
+    "category": "Activities",
+    "type": "Shopping district",
+    "neighborhood": "Gold Coast",
+    "budget": "Varies",
+    "lat": 41.9003,
+    "lng": -87.6245,
+    "summary": "Mag Mile 3: boutiques, jewelers, and luxury stores at the north end.",
+    "description": "If Mag Mile 2 is so good, why isn’t there a Mag Mile 3? Well, there is, at the north end of Mag Mile, and it is the most expensive part of Chicago. Also known as the Viagra Triangle, it’s not all eye-watering prices, but there are more boutiques, jewelers, and luxury stores than anywhere else. The nickname comes from the prevalence of old men with remarkably expensive sports cars. Highlights: luxury stores (Hermès, Prada, Chanel, Arc’teryx); the original Playboy Mansion; upscale restaurants (Carmine’s, Le Colonial); and the Newberry Library."
+  },
+  {
+    "name": "Fulton Market",
+    "category": "Activities",
+    "type": "Food & bar district",
+    "neighborhood": "West Loop",
+    "budget": "Varies",
+    "lat": 41.8867,
+    "lng": -87.6478,
+    "summary": "a restaurant-lined district that’s great for bar hopping.",
+    "description": "Fulton Market is a food district that is lined with restaurants and bars. The restaurants range in price, but it is a good area for bar hopping. Highlights: Kuma’s Corner (a metal-themed bar/restaurant) and Emporium (a bar that doubles as an arcade)."
+  }
+]

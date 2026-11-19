@@ -41,7 +41,7 @@ Krasa (formerly known as Lawn) is a Ukrainian burger and shawarma restaurant on 
 
 Food: Ukrainian, Burgers, Shawarma
 
-Location: WestTown
+Location: West Town
 
 Budget: \$$
 
@@ -87,7 +87,7 @@ Budget: \$$
 
 ### Green Street Smoked Meats
 
-Green Street Smokes Meats serves a Texan-inspired BBQ in warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company. :star:
+Green Street Smoked Meats serves Texan-inspired BBQ in a warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company. :star:
 
 Food: BBQ
 
@@ -99,7 +99,7 @@ Budget: \$$$
 
 ### Pequod's
 
-Pequod's is _the_ local Chicago spot to get deep dish pizza. They have a carmelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at [Air](https://chicago.edwinandsteph.com/activities/hidden-gems#air-aerial-fitness) nextdoor while you wait.:star::fire:
+Pequod's is _the_ local Chicago spot to get deep dish pizza. They have a caramelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at [Air](https://chicago.edwinandsteph.com/activities/hidden-gems#air-aerial-fitness) next door while you wait.:star::fire:
 
 Food: Deep Dish
 
@@ -111,7 +111,7 @@ Budget: \$$
 
 ### Pizzeria Uno
 
-There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so we recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for awhile.&#x20;
+There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so we recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for a while.&#x20;
 
 Food: Deep Dish
 
@@ -135,7 +135,7 @@ Budget: \$$
 
 ### MCCB
 
-MCCB is walk-in only Szechuan Chinese restaurant in Chinatown. We recommend the dry chili chicken and mapo tofu. We also recommend getting large plates to split. Get there about an hour before you want to eat to get on the waiting list if its a weekend during peak hours. :fire:
+MCCB is a walk-in only Szechuan Chinese restaurant in Chinatown. We recommend the dry chili chicken and mapo tofu. We also recommend getting large plates to split. Get there about an hour before you want to eat to get on the waiting list if it's a weekend during peak hours. :fire:
 
 Food: Chinese, Szechuan
 
@@ -147,7 +147,7 @@ Budget: \$$
 
 ### D4 Irish Pub
 
-D4 Irish Pub offer classic Irish cuisine in an upscale setting. This restaurant also specializes in whiskeys. The atmosphere here is extremely cozy with multiple fireplaces, wood furniture, and a wall of books.&#x20;
+D4 Irish Pub offers classic Irish cuisine in an upscale setting. This restaurant also specializes in whiskeys. The atmosphere here is extremely cozy with multiple fireplaces, wood furniture, and a wall of books.&#x20;
 
 Food: Irish
 
@@ -161,7 +161,7 @@ Budget: \$$
 
 ### Niu Japanese Fusion
 
-Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier.&#x20;
+Niu is an excellent high-end Japanese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier.&#x20;
 
 Food: Japanese, Sushi
 
@@ -307,7 +307,7 @@ Budget: $300+
 
 ### Alinea
 
-Alinea is the indisputable premiere restaurant in the city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin star rating and is commonly considered one of the best restaurants in the world. This is a multi-course tasting menu consisting of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
+Alinea is the indisputable premier restaurant in the city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin star rating and is commonly considered one of the best restaurants in the world. This is a multi-course tasting menu consisting of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
 
 Food: Creative
 

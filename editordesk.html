@@ -1,0 +1,226 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f3e9d2" />
+  <meta name="robots" content="noindex" />
+  <title>Editor’s Desk — The Chicago Guide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..600;1,6..72,400..600&family=UnifrakturMaguntia&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="editordesk.css" />
+</head>
+<body class="editordesk">
+  <header class="masthead">
+    <a class="brand" href="/" aria-label="Back to the map">
+      <span class="brand-kicker">Stephanie &amp; Edwin</span>
+      <span class="brand-title">The Chicago Guide</span>
+    </a>
+  </header>
+  <div class="strapline"><span>The Editor’s Desk <span class="sep">·</span> changes save straight to places.json</span></div>
+
+  <div class="desk-banner" id="deskBanner" role="alert" hidden></div>
+
+  <section class="auth-gate" id="authGate" aria-live="polite" hidden>
+    <div class="auth-card">
+      <form id="loginForm" class="auth-form" hidden>
+        <p class="clip-kicker">Staff only</p>
+        <h2>Sign in to the Editor’s Desk</h2>
+        <div class="field">
+          <label for="loginUser">Username</label>
+          <input type="text" id="loginUser" autocomplete="username" autocapitalize="none" spellcheck="false" required />
+        </div>
+        <div class="field">
+          <label for="loginPassword">Password</label>
+          <input type="password" id="loginPassword" autocomplete="current-password" required />
+        </div>
+        <button class="btn btn-primary" id="loginBtn" type="submit">Sign in</button>
+        <p class="auth-error" id="loginError" role="alert"></p>
+      </form>
+
+      <form id="changeForm" class="auth-form" hidden>
+        <p class="clip-kicker" id="changeKicker">One more step</p>
+        <h2 id="changeTitle">Choose your own password</h2>
+        <p class="hint" id="changeHint">The setup password only works once. Pick your own to finish signing in.</p>
+        <div class="field" id="currentField">
+          <label for="currentPassword">Current password</label>
+          <input type="password" id="currentPassword" autocomplete="current-password" />
+        </div>
+        <div class="field">
+          <label for="newPassword">New password <span class="hint-inline">(at least 10 characters)</span></label>
+          <input type="password" id="newPassword" autocomplete="new-password" minlength="10" required />
+        </div>
+        <div class="field">
+          <label for="confirmPassword">Type it again</label>
+          <input type="password" id="confirmPassword" autocomplete="new-password" minlength="10" required />
+        </div>
+        <div class="auth-actions">
+          <button class="btn btn-primary" id="changeBtn" type="submit">Save password</button>
+          <button class="btn" id="changeCancel" type="button">Cancel</button>
+        </div>
+        <p class="auth-error" id="changeError" role="alert"></p>
+      </form>
+    </div>
+  </section>
+
+  <main class="desk" id="desk" hidden>
+    <aside class="desk-index" aria-label="All locations">
+      <div class="desk-index-head">
+        <button class="btn btn-primary" id="newPlace" type="button">+ New location</button>
+        <a class="btn" href="/" target="_blank" rel="noopener">View map ↗</a>
+      </div>
+      <div class="desk-account">
+        <span>Signed in</span>
+        <button class="link-btn" id="changePasswordBtn" type="button">Change password</button>
+        <button class="link-btn" id="logoutBtn" type="button">Log out</button>
+      </div>
+      <input type="search" id="deskSearch" placeholder="Find a place…" aria-label="Find a place" autocomplete="off" />
+      <p class="desk-count" id="deskCount"></p>
+      <div id="deskList"></div>
+    </aside>
+
+    <section class="form-card" aria-labelledby="formTitle">
+      <form id="placeForm" novalidate>
+        <header class="form-head">
+          <p class="clip-kicker" id="formKicker">New location</p>
+          <h2 id="formTitle">Untitled place</h2>
+        </header>
+
+        <fieldset class="form-section">
+          <legend>The basics</legend>
+          <div class="form-grid">
+            <div class="field span-2">
+              <label for="f-name">Name *</label>
+              <input type="text" id="f-name" name="name" required maxlength="80" />
+            </div>
+            <div class="field">
+              <label for="f-category">Section *</label>
+              <select id="f-category" name="category" required></select>
+            </div>
+            <div class="field">
+              <label for="f-type">Type *</label>
+              <input type="text" id="f-type" name="type" required placeholder="Speakeasy, Bakery, Museum…" maxlength="40" />
+            </div>
+            <div class="field">
+              <label for="f-neighborhood">Neighborhood *</label>
+              <input type="text" id="f-neighborhood" name="neighborhood" required list="neighborhoodList" autocomplete="off" />
+              <datalist id="neighborhoodList"></datalist>
+            </div>
+            <div class="field">
+              <label for="f-budget">Budget *</label>
+              <input type="text" id="f-budget" name="budget" required list="budgetList" autocomplete="off" />
+              <datalist id="budgetList"><option value="$"><option value="$$"><option value="$$$"><option value="$$$$"><option value="Free"></datalist>
+              <p class="hint">$–$$$$ for food &amp; bars; a price like “$25 per person” or “Free” for activities.</p>
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+          <legend>On the map</legend>
+          <div class="form-grid">
+            <div class="field span-2">
+              <label for="f-address">Street address <span class="hint-inline">(not saved; used to find the pin)</span></label>
+              <div class="inline-row">
+                <input type="text" id="f-address" placeholder="1520 N Damen Ave" autocomplete="off" />
+                <button class="btn" id="geocodeBtn" type="button">Find on map</button>
+              </div>
+              <p class="hint" id="geocodeStatus">Or click the map / drag the pin to place it.</p>
+            </div>
+            <div class="span-2"><div id="pickMap" aria-label="Map for placing the pin"></div></div>
+            <div class="field">
+              <label for="f-lat">Latitude *</label>
+              <input type="number" id="f-lat" name="lat" required step="any" min="41" max="43" />
+            </div>
+            <div class="field">
+              <label for="f-lng">Longitude *</label>
+              <input type="number" id="f-lng" name="lng" required step="any" min="-89" max="-87" />
+            </div>
+          </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+          <legend>Our take</legend>
+          <div class="form-grid">
+            <div class="field span-2">
+              <span class="field-label">Whose pick?</span>
+              <div class="pick-options">
+                <label class="pick-chip steph"><input type="checkbox" name="picks" value="stephanie"><span><i class="icon-star" aria-hidden="true"></i>Stephanie</span></label>
+                <label class="pick-chip edwin"><input type="checkbox" name="picks" value="edwin"><span><i class="icon-flame" aria-hidden="true"></i>Edwin</span></label>
+              </div>
+            </div>
+            <div class="field span-2">
+              <label for="f-summary">One-liner *</label>
+              <input type="text" id="f-summary" name="summary" required maxlength="140" placeholder="a walk-up coffee window with a striking skeleton mural." />
+              <p class="hint">Shown in the bottom “Today’s Dispatch” strip after the name, so start lowercase.</p>
+            </div>
+            <div class="field span-2">
+              <label for="f-description">The story *</label>
+              <textarea id="f-description" name="description" required rows="6"></textarea>
+            </div>
+            <label class="check span-2"><input type="checkbox" id="f-closed" name="closed"> Permanently closed <span class="hint-inline">(stays on the map, greyed out)</span></label>
+          </div>
+        </fieldset>
+
+        <fieldset class="form-section">
+          <legend>Details</legend>
+          <div class="form-grid">
+            <div class="field span-2" id="cuisineField">
+              <span class="field-label" id="cuisineLabel">Cuisine &amp; drinks</span>
+              <div class="tags" id="cuisineTags" role="group" aria-labelledby="cuisineLabel"></div>
+              <div class="inline-row">
+                <input type="text" id="cuisineNew" placeholder="Add a new tag…" aria-label="Add a new cuisine tag" autocomplete="off" />
+                <button class="btn" id="cuisineAdd" type="button">Add</button>
+              </div>
+            </div>
+            <div class="field span-2" id="mealField">
+              <span class="field-label" id="mealFieldLabel">Good for <span class="hint-inline">(the Meal filter on the map)</span></span>
+              <div class="tags" id="mealTags" role="group" aria-labelledby="mealFieldLabel"></div>
+            </div>
+            <div class="field">
+              <label for="f-url">Website</label>
+              <input type="url" id="f-url" name="url" placeholder="https://" />
+            </div>
+            <div class="field">
+              <label for="f-rewards">Rewards program</label>
+              <select id="f-rewards" name="rewards"></select>
+            </div>
+            <div class="field span-2">
+              <label for="f-alsoIn">Also in <span class="hint-inline">(other neighborhoods, comma-separated)</span></label>
+              <input type="text" id="f-alsoIn" name="alsoIn" placeholder="Streeterville, Wrigleyville" autocomplete="off" />
+            </div>
+            <div class="seasonal span-2" id="seasonalFields">
+              <div class="form-grid">
+                <div class="field span-2">
+                  <label for="f-when">When</label>
+                  <input type="text" id="f-when" name="when" placeholder="Late November – late December" />
+                </div>
+                <div class="field">
+                  <label for="f-seasonStart">In season from <span class="hint-inline">(MM-DD)</span></label>
+                  <input type="text" id="f-seasonStart" pattern="\d{1,2}-\d{1,2}" placeholder="11-20" />
+                </div>
+                <div class="field">
+                  <label for="f-seasonEnd">Until <span class="hint-inline">(MM-DD)</span></label>
+                  <input type="text" id="f-seasonEnd" pattern="\d{1,2}-\d{1,2}" placeholder="12-24" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </fieldset>
+
+        <div class="form-actions">
+          <button class="btn btn-primary" id="saveBtn" type="submit">Save</button>
+          <button class="btn" id="resetBtn" type="button">Discard changes</button>
+          <button class="btn btn-danger" id="deleteBtn" type="button">Delete</button>
+          <span class="form-status" id="formStatus" role="status" aria-live="polite"></span>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="editordesk.js" type="module"></script>
+</body>
+</html>

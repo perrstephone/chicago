@@ -8,6 +8,6 @@ One Off Hospitality runs a variety of restaurants and bakeries in Chicago. They 
 
 ## InKind Rewards
 
-InKind is a rewards program that offers 20% cash back at select restaurants, both in and out of Chicago! The referral link will give you $25 to spend on your first check.&#x20;
+InKind is a rewards program that offers up to 25% cash back at select restaurants, both in and out of Chicago! The referral link will give you $25 to spend on your first check.&#x20;
 
 {% embed url="https://app.inkind.com/refer/OSQTNV9Y" %}

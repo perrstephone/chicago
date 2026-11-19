@@ -46,7 +46,7 @@ Budget: $
 
 ### Voodoo Doughnuts
 
-Voodoo Donuts is a national chain with a location in the heart of the Chicago food district. They offer creative donuts with fun designs.&#x20;
+Voodoo Doughnut is a national chain with a location in the heart of the Chicago food district. They offer creative donuts with fun designs.&#x20;
 
 Food: Coffee, Donuts
 
@@ -126,7 +126,7 @@ Rewards: [One Off Hospitality](https://chicago.edwinandsteph.com/misc/referral-p
 
 ### Cafe Robey
 
-Cafe Robey is a chic all-day bunch spot nestled within the Robey Hotel, an independent hotel in the heart of Wicker Park. This classic brunch spot boasts a long list of cocktails and breakfast food, ranging from sweet to savory. Reservations are a good call for weekends.&#x20;
+Cafe Robey is a chic all-day brunch spot nestled within the Robey Hotel, an independent hotel in the heart of Wicker Park. This classic brunch spot boasts a long list of cocktails and breakfast food, ranging from sweet to savory. Reservations are a good call for weekends.&#x20;
 
 Food: Brunch, Coffee
 
